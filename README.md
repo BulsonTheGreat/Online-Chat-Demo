@@ -1,2 +1,2 @@
 # Online-Chat-Demo
-An experimental chat application in which after setting up a local server the user can enter a chatroom where they can send and receive encrypted messages with other users
+In order for the project to work the server needs to be set up by using node.js (node server.js) and after that you just need to type localhost:5000 in your browser and it should transfer you to the website.
